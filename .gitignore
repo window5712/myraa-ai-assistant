@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-release/
+release/
+release-v2/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+memories.json
+life_memory.json
+.vscode/
+.idea/
+*.tsbuildinfo

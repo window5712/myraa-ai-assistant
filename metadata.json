@@ -1,0 +1,6 @@
+{
+  "name": "Alya AI Agent",
+  "description": "A real-time, voice-to-voice multimodal AI companion and autonomous agent named Alya, using the Gemini Live API and Composio tools ecosystem.",
+  "requestFramePermissions": ["microphone", "display-capture"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
